@@ -1,0 +1,20 @@
+Query 1: set1 image0.png 4
+
+Image_ID: 7 Score:  56.88559075621913 Image path: /home/shivam/Downloads/set1/image-7.png
+Image_ID: 2 Score:  54.75712625502738 Image path: /home/shivam/Downloads/set1/image-2.png
+Image_ID: 6 Score:  49.91106582530265 Image path: /home/shivam/Downloads/set1/image-6.png
+Image_ID: 8 Score:  40.2717973747307 Image path: /home/shivam/Downloads/set1/image-8.png
+
+Query 2: set2 image0.png 4
+
+Image_ID: 2 Score:  68.50167672533863 Image path: /home/shivam/Downloads/set2/image-2.png
+Image_ID: 4 Score:  40.09324197705559 Image path: /home/shivam/Downloads/set2/image-4.png
+Image_ID: 1 Score:  36.865712778753576 Image path: /home/shivam/Downloads/set2/image-1.png
+Image_ID: 3 Score:  36.424933046525574 Image path: /home/shivam/Downloads/set2/image-3.png
+
+Query 3: set3 image0.png 4
+
+Image_ID: 10 Score:  50.00552802447651 Image path: /home/shivam/Downloads/set3/image-110.png
+Image_ID: 6 Score:  46.05793625221136 Image path: /home/shivam/Downloads/set3/image-70.png
+Image_ID: 8 Score:  43.10319159344378 Image path: /home/shivam/Downloads/set3/image-90.png
+Image_ID: 9 Score:  40.2046757579851 Image path: /home/shivam/Downloads/set3/image-100.png

@@ -1,0 +1,73 @@
+Query 1: set1 image0.png cm8x8 4
+
+The 4 similar images are : 
+Image_ID: 2 Score:  53.511042061784465 Image path: /home/shivam/Downloads/set1/image-2.png
+Image_ID: 6 Score:  49.7725699510378 Image path: /home/shivam/Downloads/set1/image-6.png
+Image_ID: 7 Score:  46.6194957797008 Image path: /home/shivam/Downloads/set1/image-7.png
+Image_ID: 8 Score:  42.7228227137886 Image path: /home/shivam/Downloads/set1/image-8.png
+
+Query 2: set1 image0.png elbp 4	
+
+The 4 similar images are : 
+Image_ID: 7 Score:  5.122811949974561 Image path: /home/shivam/Downloads/set1/image-7.png
+Image_ID: 8 Score:  4.8995472904275905 Image path: /home/shivam/Downloads/set1/image-8.png
+Image_ID: 2 Score:  4.793977259707741 Image path: /home/shivam/Downloads/set1/image-2.png
+Image_ID: 6 Score:  4.745046103285885 Image path: /home/shivam/Downloads/set1/image-6.png
+
+Query 3: set1 image0.png hog 4
+
+The 4 similar images are : 
+Image_ID: 7 Score:  63.39765346948288 Image path: /home/shivam/Downloads/set1/image-7.png
+Image_ID: 2 Score:  62.58604435153528 Image path: /home/shivam/Downloads/set1/image-2.png
+Image_ID: 6 Score:  62.002560415927945 Image path: /home/shivam/Downloads/set1/image-6.png
+Image_ID: 8 Score:  58.61510787033373 Image path: /home/shivam/Downloads/set1/image-8.png
+
+Query 4: set2 image0.png cm8x8 4
+
+The 4 similar images are : 
+Image_ID: 2 Score:  53.511042061784465 Image path: /home/shivam/Downloads/set2/image-2.png
+Image_ID: 4 Score:  36.365725159432884 Image path: /home/shivam/Downloads/set2/image-4.png
+Image_ID: 1 Score:  33.95952275367621 Image path: /home/shivam/Downloads/set2/image-1.png
+Image_ID: 6 Score:  32.74758173887016 Image path: /home/shivam/Downloads/set2/image-11.png
+
+Query 5: set2 image0.png elbp 4
+
+The 4 similar images are : 
+Image_ID: 2 Score:  4.793977259707741 Image path: /home/shivam/Downloads/set2/image-2.png
+Image_ID: 6 Score:  4.760091756145367 Image path: /home/shivam/Downloads/set2/image-11.png
+Image_ID: 7 Score:  4.751959204059307 Image path: /home/shivam/Downloads/set2/image-12.png
+Image_ID: 4 Score:  4.711648157823022 Image path: /home/shivam/Downloads/set2/image-4.png
+
+Query 6: set2 image0.png hog 4
+
+The 4 similar images are : 
+Image_ID: 2 Score:  62.58604435153528 Image path: /home/shivam/Downloads/set2/image-2.png
+Image_ID: 1 Score:  58.24577573100185 Image path: /home/shivam/Downloads/set2/image-1.png
+Image_ID: 4 Score:  57.73787584403299 Image path: /home/shivam/Downloads/set2/image-4.png
+Image_ID: 3 Score:  57.60804958926048 Image path: /home/shivam/Downloads/set2/image-3.png
+
+QUery 7: set3 image0.png cm8x8 4
+
+The 4 similar images are : 
+Image_ID: 6 Score:  39.87889260221019 Image path: /home/shivam/Downloads/set3/image-70.png
+Image_ID: 10 Score:  39.75745415813881 Image path: /home/shivam/Downloads/set3/image-110.png
+Image_ID: 5 Score:  38.4467425744198 Image path: /home/shivam/Downloads/set3/image-60.png
+Image_ID: 8 Score:  37.977200948433484 Image path: /home/shivam/Downloads/set3/image-90.png
+
+Query 8: set3 image0.png elbp 4
+
+The 4 similar images are : 
+Image_ID: 6 Score:  5.153845141018746 Image path: /home/shivam/Downloads/set3/image-70.png
+Image_ID: 8 Score:  5.153340040974886 Image path: /home/shivam/Downloads/set3/image-90.png
+Image_ID: 7 Score:  5.052473562771124 Image path: /home/shivam/Downloads/set3/image-80.png
+Image_ID: 10 Score:  5.048674401119299 Image path: /home/shivam/Downloads/set3/image-110.png
+
+Query 9: set3 image0.png hog 4
+
+The 4 similar images are : 
+Image_ID: 10 Score:  57.649982120666046 Image path: /home/shivam/Downloads/set3/image-110.png
+Image_ID: 12 Score:  57.29801715522831 Image path: /home/shivam/Downloads/set3/image-130.png
+Image_ID: 9 Score:  56.84868179581446 Image path: /home/shivam/Downloads/set3/image-100.png
+Image_ID: 11 Score:  56.70051410382448 Image path: /home/shivam/Downloads/set3/image-120.png
+
+
